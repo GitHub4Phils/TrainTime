@@ -1,5 +1,5 @@
 # TrainTime
-Train time is an application for Train management. JavaScript Front End and Jquery using Firebase database to add to the list.
+Train time is an application for Train management. JavaScript Front End and Jquery using Firebase database to add to the list. We also utilize "moment" for date and time manipulation and calculation for next arrival and time differences.
 
 Train management page shows the train list on schedule
 ![page 1](/assets/images/train1.png)
